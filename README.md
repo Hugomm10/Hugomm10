@@ -24,12 +24,12 @@ Gosto de aprender e de ajudar e claro...jogar e me divertir!
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/hugomm10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomm10&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**hugomm10** github stats"/>
+<a href="https://github.com/hugomm10">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugomm10&show_icons=true&theme=dracula&line_height=27" alt="**hugomm10** github stats"/>
 </a>
 
 [website]: http://mm10.pt/
